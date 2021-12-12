@@ -1,3 +1,3 @@
 # Custom select
 
-krevetkaoo.github.io/custom-select
+https://krevetkaoo.github.io/custom-select/
